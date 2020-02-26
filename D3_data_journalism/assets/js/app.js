@@ -1,4 +1,4 @@
-// @TODO: YOUR CODE HERE!
+
 //Set up SVG
 var svgWidth = 800;
 var svgHeight = 500;
